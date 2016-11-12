@@ -1,0 +1,12 @@
+STAGE1  gitUrl 
+
+STAGE2  gitUrl
+	build   这个时候 发送static   ===>>>
+STAGE3  
+	fileAddress  拉取
+STAGE4
+	
+STAGE5   第五步进行测试 
+
+	address:port+router +params....
+	
