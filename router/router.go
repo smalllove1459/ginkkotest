@@ -1,7 +1,7 @@
 package router
 
 import (
-	c "component_project/controller"
+	c "ginkkotest/controller"
 	"github.com/Unknwon/macaron"
 )
 

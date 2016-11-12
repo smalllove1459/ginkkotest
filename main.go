@@ -2,7 +2,7 @@ package main
 
 import (
 	//"shangqu-finance/router"
-	"component_project/router"
+	"ginkkotest/router"
 	"github.com/Unknwon/macaron"
 )
 
