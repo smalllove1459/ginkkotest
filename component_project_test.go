@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	a "component_project/controller"
+	a "ginkkotest/controller"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
